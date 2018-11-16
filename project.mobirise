@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Workshop Perfis",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,10 +40,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "Home Perfis",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
