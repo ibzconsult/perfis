@@ -37,7 +37,7 @@
     "versionFirst": "4.8.6",
     "siteFonts": [],
     "uniqCompNum": 32,
-    "versionPublish": "4.9.1",
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -61,8 +61,8 @@
     "home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Venda aos Perfis Comportamentais",
+        "meta_descr": "Você pode dominar as melhores técnicas do planeta, mas nunca terá sucesso em vendas se não consseguir conectar-se com o cliente. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
